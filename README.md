@@ -1,3 +1,3 @@
 # Gradle 基础
 
-[关于 Gradle 你应该知道的知识点](https://juejin.cn/post/7064350945756332040)
+[Gradle基础用法](https://tehub.com/a/8zTnjAriGb) 特点：覆盖面广
